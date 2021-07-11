@@ -1,4 +1,6 @@
 # expressreact project  
 
-run npm install
+#run 
+
+npm install
 npm run client-install
